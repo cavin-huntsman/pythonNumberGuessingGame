@@ -1,6 +1,6 @@
 # ____Project Title____
 #
-# Number Guessing Game
+# Guess That Number
 # This is a fairly simple number guessing game that asks a user to specify how many chances they want to guess a
 # randomly generated number.
 #
