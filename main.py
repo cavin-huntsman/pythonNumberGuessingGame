@@ -7,7 +7,7 @@ def main():
     lives = methods.setLives()
     num = methods.setNumber()
     methods.compareNumber(num, lives)
-    time.sleep(1)
+    time.sleep(2)
 
 
 while True:
