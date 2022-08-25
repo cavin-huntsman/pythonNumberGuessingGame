@@ -4,10 +4,10 @@ import time
 
 def main():
     methods.startGame()
-    lives = methods.setLives()
     num = methods.setNumber()
+    lives = methods.setLives()
     methods.compareNumber(num, lives)
-    time.sleep(2)
+    time.sleep(1.5)
 
 
 while True:

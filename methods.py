@@ -10,6 +10,7 @@ def startGame():
 
 
 def setNumber():
+    print("I've selected a random number between 1 and 10! Can you guess it before you run out of lives??")
     num = random.randint(1, 10)
     int(num)
     return num
