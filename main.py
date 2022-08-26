@@ -10,13 +10,3 @@ def main():
 
 while True:
     main()
-
-
-#def main2():
-#    methods.startGame()
-#    mode = methods.chooseMode()
-#    num = methods.setNumber()
-#    round = 1
-#    lives = methods.setLives()
-#    methods.compareNumber(num, lives, mode, round)
-#    time.sleep(1.5)

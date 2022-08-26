@@ -1,5 +1,4 @@
 import random
-import time
 
 # methods for base game
 # startGame(), setNumber(), setLives(), compareNumber(num, lives)
@@ -107,7 +106,6 @@ def addLives(lives, round):
         lives += 1
         print(f"Lives increased to {lives}")
     return lives
-
 
 
 # methods for score keeping
