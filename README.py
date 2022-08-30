@@ -23,9 +23,9 @@
 #
 # ____How To Use____
 #
-# Simply run the progam. It is entirely based in the console so no windows will pop-up there. Just download the repository,
-# copy your file path, open a command prompt, paste your file path, and hit enter. Once you are in the correct directory,
-# type <python3 main.py> into the command prompt (omit <>).
+# Simply run the program. It is entirely based in the console so no windows will pop-up there. Just download the
+# repository, copy your file path, open a command prompt, paste your file path, and hit enter. Once you are in
+# the correct directory, type <python3 main.py> into the command prompt (omit <>).
 #
 #
 # ____Future Updates____

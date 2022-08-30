@@ -3,10 +3,8 @@ import time
 
 
 def main():
-    methods.startGame()
-    num = methods.setNumber()
-    lives = methods.setLives()
-    methods.compareNumber(num, lives)
+    methods.startGame()  # do you want to start yes or no?
+    methods.play()  # play the game
     time.sleep(1.5)
 
 
